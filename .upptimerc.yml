@@ -12,7 +12,7 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist11111.koj.co
   - name: IPv6 test
-    url: google.com
+    url: test-ipv6.com
     port: 443
     check: "tcp-ping"
     ipv6: true
